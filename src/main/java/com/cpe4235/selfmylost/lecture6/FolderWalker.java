@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.seniorproject.lecture6;
+package com.cpe4235.selfmylost.lecture6;
 
 import java.io.File;
 
