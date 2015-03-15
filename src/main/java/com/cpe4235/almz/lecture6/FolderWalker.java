@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cpe4235.selfmylost.lecture6;
+package com.cpe4235.almz.lecture6;
 
 import java.io.File;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class FolderWalker {
 
